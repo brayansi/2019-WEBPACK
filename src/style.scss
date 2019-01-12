@@ -1,0 +1,15 @@
+body { 
+	background-color: orange;
+	color: green;
+}
+
+.img-border{
+	border: 5px solid green;   
+	&:hover{
+		opacity: 0.5;
+	} 
+}
+
+.abc{
+	color: red;
+}
